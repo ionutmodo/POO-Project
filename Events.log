@@ -1,0 +1,17 @@
+[18:30:02] AutoVehicul >>> Constructor implicit
+[18:30:02] AutoVehicul >>> read
+[18:30:02] AutoVehicul >>> Constructor implicit
+[18:30:02] AutoMarfar >>> Constructor implicit
+[18:30:02] AutoMarfar >>> read
+[18:30:02] AutoVehicul >>> Constructor implicit
+[18:30:02] AutoPersonal >>> Constructor implicit
+[18:30:02] AutoPersonal >>> read
+[18:30:02] AutoVehicul >>> Constructor implicit
+[18:30:02] AutoMarfar >>> Constructor implicit
+[18:30:02] AutoPersonal >>> Constructor implicit
+[18:30:02] AutoMobil >>> Constructor implicit
+[18:30:02] AutoMobil >>> read
+[18:30:02] ERROR >>> Linia "BM	W	M4	2016	12.3	70583	VS-95-DEV	Airbag,AC,Radio MP3, directie asistata	250	Break	5	273	Da" nu a putut fi convertita la AutoMobil. Am trecut peste ea
+[18:30:17] AutoVehicul >>> write
+[18:30:17] Vehicul >>> write
+[18:30:17] AutoPersonal >>> write

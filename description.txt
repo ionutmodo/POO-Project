@@ -1,0 +1,52 @@
+	 Vehicul
+	    |
+  AutoVehicul
+	   /\
+	  /  \
+	 /    \
+	/	   \
+ Marfar  Personal
+    \	   /
+	 \    /
+	  \  /
+	   \/
+   AutoMobil
+
++-----------------+
+|     VEHICUL	  |
++-----------------+
+| CLASA ABSTRACTA |
++-----------------+
+
++--------------------------+
+|	 AUTOVEHICUL           |
++---+--------------+-------+
+| # | marca        | char* |
+| # | model        | char* |
+| # | anFabricatie | uint  |
+| # | consumMediu  | float |
+| # | pretEUR      | uint  |
+| # | numar		   | char* |
++---+--------------+-------+
+
++------------------------+
+|		AUTOMARFAR		 |
++---+------------+-------+
+| # | dotari     | char* |
+| # | volumLitri | uint  |
++---+------------+-------+
+
++---------------------------+
+|		AUTOPERSONAL        |
++---+---------------+-------+
+| # | numarPersoane | uint  |
+| # | caroserie     | char* |
++---+---------------+-------+
+
++------------------+------+
+|	   AUTOMOBIL  	      |
++---+--------------+------+
+| # | vitezaMaxima | uint |
+| # | limuzina     | bool |
++---+--------------+------+
+

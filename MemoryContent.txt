@@ -1,0 +1,4 @@
+1	Chevrolet	Aveo	2006	7.5	10000	VS-05-LMJ	
+2	Volkswagen	Transporter	2005	10	5000	VS-01-UNU	Remorca mica	784	
+3	Mercedes	Cilaro	2015	32	95000	VS-01-DOI	Autobuz 30m	98	
+4	BMW	M4	2016	12.3	70583	VS-95-DEV	Airbag,AC,Radio MP3, directie asistata	250	Break	5	273	Da	
