@@ -1,6 +1,6 @@
 	 Vehicul
 	    |
-    AutoVehicul
+   AutoVehicul
 	   /\
 	  /  \
 	 /    \
