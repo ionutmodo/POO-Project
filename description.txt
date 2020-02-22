@@ -1,16 +1,16 @@
 	 Vehicul
 	    |
-  AutoVehicul
+    AutoVehicul
 	   /\
 	  /  \
 	 /    \
-	/	   \
- Marfar  Personal
-    \	   /
+	/      \
+ Marfar    Personal
+    \      /
 	 \    /
 	  \  /
 	   \/
-   AutoMobil
+    AutoMobil
 
 +-----------------+
 |     VEHICUL	  |
@@ -19,14 +19,14 @@
 +-----------------+
 
 +--------------------------+
-|	 AUTOVEHICUL           |
+|		 AUTOVEHICUL       |
 +---+--------------+-------+
 | # | marca        | char* |
 | # | model        | char* |
 | # | anFabricatie | uint  |
 | # | consumMediu  | float |
 | # | pretEUR      | uint  |
-| # | numar		   | char* |
+| # | numar	       | char* |
 +---+--------------+-------+
 
 +------------------------+
@@ -44,7 +44,7 @@
 +---+---------------+-------+
 
 +------------------+------+
-|	   AUTOMOBIL  	      |
+|		AUTOMOBIL         |
 +---+--------------+------+
 | # | vitezaMaxima | uint |
 | # | limuzina     | bool |
